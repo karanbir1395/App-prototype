@@ -1,0 +1,162 @@
+#banking
+{
+	
+}
+
+#asset
+{
+  margin-top: 12%;
+
+
+}
+
+#frame1
+{
+	z-index: -1;
+}
+#frame2
+{
+		z-index: -1;
+	margin-top: -1px;
+}
+
+#headingAsset
+{
+	margin-top: -85%;
+    margin-left: 5%;
+	
+border-radius: 10px 10px 0 0;
+font-size:35px;
+color:#626F7D;
+font-weight: 600;
+}
+
+#leftHead
+{
+	position:absolute;
+	font-size: 40px;
+    margin-top: -77%;
+    font-family: sans-serif;
+    font-weight: 700;
+    margin-left: 60px;
+}
+
+#rightHead
+{
+	position: absolute;
+    font-size: 40px;
+    color: #0061C5;
+	margin-top: -130.3%;
+    font-family: sans-serif;
+    font-weight: 700;
+    margin-left: 60%;
+	
+}
+
+body {
+margin:0;
+padding:0;
+font-family: 'Roboto Slab', serif;
+background-color:#F2F2F2;
+}
+div#outerBox{
+width: 100%;
+border-radius:10px;
+
+}
+div#outerBox img{
+	width:100%;
+}
+div#bannerContainer img {
+	height: 30%;
+}
+form{
+width:100%;
+/* margin:11% 15% 4% 8%; */
+
+}
+header{
+margin-bottom: 40px;
+margin-top: 41px;
+
+padding-top: 12px;
+padding-bottom: 8px;
+/* margin: 134px 2px 53px 2px; */
+border-radius: 10px 10px 0 0;
+font-size:50px;
+color:#626F7D;
+}
+label{
+	font-size:35px;
+}
+
+input[type=text]{
+width:100%;
+margin-bottom: 40px;
+margin-top: -22px;
+/* padding: 66px 60px 66px 60px;
+margin-left:6px;
+margin-right:6px; */
+padding:66px;
+border-radius:5px;
+border:0px;
+border-bottom:2px solid #7ac9b7;
+font-size:38px;
+line-height:40px;
+}
+input[type=submit]
+{
+margin-top: -110%;
+    margin-bottom: 40px;
+    width: 30%;
+    padding: 32px;
+    border-radius: 5px;
+    border: 1px solid #7ac9b7;
+    cursor: pointer;
+    font-size: 39px;
+    float: right;
+    margin-right: 29px;
+    background-color: #0061C5;
+    color: white;
+}
+input[type=number]
+{
+margin-bottom: 97px;
+margin-top: -22px;
+width:33%;
+padding: 66px;
+border-radius:5px;
+border:0px;
+border-bottom:2px solid #7ac9b7;
+font-size:38px;
+line-height:40px;
+}
+#submit:hover
+{
+background-color: #2061CA;;
+}
+textarea{
+width:100%;
+padding: 15px;
+margin-top: 10px;
+border:1px solid #7ac9b7;
+border-radius:5px;
+margin-bottom: 20px;
+resize:none;
+
+}
+input[type=text]:focus,textarea:focus {
+border:1px;
+border-color: #7ac9b7;
+}
+/* footer{
+	height:27%;
+}
+ */
+ footer img{
+	 width: 100%;
+	 margin-top:20%;
+ }
+ 
+ 
+ 
